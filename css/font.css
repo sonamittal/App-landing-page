@@ -1,0 +1,23 @@
+/* ----------------------------------------------------------------
+Fonts
+---------------------------------------------------------------- */
+@font-face {
+    font-family: pop-Light;
+    src: url(../fonts/poppins/Poppins-Light.ttf);
+}
+@font-face {
+    font-family: pop-Regular;
+    src: url(../fonts/poppins/Poppins-Regular.ttf);
+}
+@font-face {
+    font-family: pop-Medium;
+    src: url(../fonts/poppins/Poppins-Medium.ttf);
+}
+@font-face {
+    font-family: pop-Semibold;
+    src: url(../fonts/poppins/Poppins-SemiBold.ttf);
+}
+@font-face {
+    font-family: pop-Bold;
+    src: url(../fonts/poppins/Poppins-Bold.ttf);
+}
